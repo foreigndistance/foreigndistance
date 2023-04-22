@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **foreigndistance/foreigndistance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### greetings, meri here!
-- i don't know how to code i swear, trying to (re)learn HTML/CSS further
+- she/her
+- ~~i don't know how to code i swear~~ trying to (re)learn HTML/CSS further apart from wiki editing work
+- i want to make my own site dedicated to my blog/writings/translations one day 
