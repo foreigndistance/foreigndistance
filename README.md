@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### greetings, meri here!
+- i don't know how to code i swear, trying to (re)learn HTML/CSS further
