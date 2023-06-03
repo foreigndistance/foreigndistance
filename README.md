@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 ### greetings, meri here!
 - she/her
-- ~~i don't know how to code i swear~~ trying to (re)learn HTML/CSS further apart from wiki editing work
-- i want to make my own site dedicated to my blog/writings/translations one day 
+- ~~i don't know how to code i swear~~ trying to (re)learn HTML/CSS further, apart from wiki editing work (mainly on the [SideM](https://www.sidem.wiki/wiki/Main_Page) and [Saisuta](http://gs.sidem.wiki/) Miraheze wikis)
+- I want to make my own site dedicated to my blog/writings/translations one day.
