@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 
 ### greetings, meri here!
 - she/her
-- ~~i don't know how to code i swear~~ trying to (re)learn HTML/CSS further, apart from wiki editing work (mainly on the [SideM](https://www.sidem.wiki/wiki/Main_Page) and [Saisuta](http://gs.sidem.wiki/) Miraheze wikis)
-- I want to make my own site dedicated to my blog/writings/translations one day.
+- Trying to (re)learn HTML/CSS further, apart from wiki editing work (mainly on the [SideM](https://sidem.miraheze.org/wiki/Main_Page) and [Wind Boys!](http://windboys.fandom.com/) wikis)
+- Currently in the (slow) process of creating my own fan translation/blog and art portfolio sites! And also to serve as a personal archive.
+- Occasionally tinkers around in a few other projects whenever I have time or I feel like it. Usually the latter.
